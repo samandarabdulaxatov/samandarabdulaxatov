@@ -1,3 +1,3 @@
-### Hi there 👋
+### Languages and Tools
 
-I'm Samandar from Uzbekistan
+[Ract](react)
